@@ -1,0 +1,93 @@
+CODING TO-DOS:
+* Character Creation
+	* decide how pronoun selection will work
+	* add favorite color selection
+* RPG Character Creation
+	* New function/jump label similar to protag creation (slightly similar since the will be less art to work with)
+* Achievements
+	-"Snow Crash" - Play with default character name	*secret achievement
+	-"That's F**king Wild" - That's f**king wild my dude (character's name is one of our dead names)	*secret achievement
+	-"Plaid is not a color" - You gay f**k (choose plaid as favorite color, get +5 approval from brenn) *secret achievement
+	-"Open a Bottle of Wine Sometime" - Julia Good End
+	-"Let Reid Say F**k" - Reid Bad End
+	-"Rocks Fall, Everyone Dies" - Charlie Bad End
+	-"Suplexed Into the Sun" - Brenn Bad End
+* Approval rating system
+* Branching options
+* Dating system
+
+	
+ART TO-DOS:
+* Character Creation Art
+	*Various Body types (start with one for testing, each item of clothing will have to be altered to fit each base)
+	*Hairstyles
+	*Neck Accessories
+	*Glasses
+	*Tops
+	*Jackets
+* RPG Character Creation Art
+	*Each character art is gender ambiguous for sake of Charlie's sanity
+	*race and class lists have been reduced, again for the sake of Charlie's sanity
+	*Races:
+		*Halfling
+		*Gnome
+		*Dwarf
+		*Elf
+		*Tiefling
+		*Half-Elf
+		*Human
+	*Classes: 
+		*Fighter
+		*Mage
+		*Rogue
+		*Cleric
+		*Ranger
+		*Bard
+* IRL Characters
+	* Brenn
+	* Charlie
+	* Reid
+	* James
+	* Julia
+	* Bethany
+	* Margo
+	* Ben
+* Campaign Characters
+	* Kirna
+	* Kelwyn
+	* Thalia
+	* Katara
+	* Devito
+	* Mona
+	* Hirok
+* Background Characters
+	* Obi
+	* Meredith
+	* Fiona
+	* Jien
+* Campaign NPCs
+	* Lt. Anton
+	* Anne
+	* Shirani
+	* Weasel
+	* Caspian
+* Backgrounds
+	* Waffle House dining room (campaign room)
+	* Ren Faire
+		* probably various settings at the ren faire
+	* Other date backgrounds
+		* Waffle House kitchen
+		* "Century Games"
+	* Big Gay Party (Waffle House Living Room)
+	* Campaign Backgrounds
+		* Shirani's Smithy
+		* Lt. Anton's Office
+		* Forest
+		* Grendale
+		* Kaladar
+		* Temple of Kord
+* Collectable Art gallery pieces
+	* Good End pieces for each route
+	* Bad End Pieces for each route
+	* Ren Faire group shot
+	
